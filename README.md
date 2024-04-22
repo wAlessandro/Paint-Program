@@ -11,6 +11,7 @@ Here you can create a new screen content and save it.
 
 Buttons for basic colors, previous color, color picker, the brush and eraser size box.
 at the bottom, you can see the mouse coordinates on the canvas.
+
 ![buttons](https://github.com/wAlessandro/Paint-Program/assets/157850150/f05c0e6c-d9d1-49b0-ac34-ef052bbdd075)
 
 With the Left mouse button, you can draw and Right button to erase.
